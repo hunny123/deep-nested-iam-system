@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+asyncpg
+databases
+pydantic
+alembic
+python-dotenv
+passlib[bcrypt]
+jose[cryptography]
+pytest
+httpx
+black
+isort
+mypy
+datetime
